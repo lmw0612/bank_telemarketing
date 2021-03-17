@@ -9,3 +9,8 @@ In this specific scenario, UCI Machine Learning Repository provides a dataset th
 
 **Dataset Description** Moro, S., Cortez, P., & Rita, P. (2014). A data-driven approach to predict the success of bank telemarketing. Decision Support Systems, 62, 22-31**<br>
 The dataset can be downloaded from here (https://archive.ics.uci.edu/ml/datasets/bank+marketing#)
+
+# Jupyter Notebook
+[Jupyter](bank_telemarketing.ipynb)
+
+**Work In Progess**
