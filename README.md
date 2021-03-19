@@ -14,8 +14,17 @@ The dataset can be downloaded from here (https://archive.ics.uci.edu/ml/datasets
 [Jupyter](bank_telemarketing.ipynb)
 
 **Work In Progess**
+<<<<<<< HEAD
 
+=======
+- Handling Outliers
+>>>>>>> 89d9b04ea85eee87492154f8c3937dd073e9f874
 - Resampling
 - Hyperparameter Tuning
 - Ensemble
 - Conclusion
+<<<<<<< HEAD
+=======
+
+Deadeline:19/3/2021
+>>>>>>> 89d9b04ea85eee87492154f8c3937dd073e9f874
